@@ -3,4 +3,4 @@ var Jet = function (color, size) {
   this.size = size;
 }
 
-module.exports = Jet;
+module.exports = Jet; 
